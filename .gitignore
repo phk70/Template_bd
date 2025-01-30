@@ -1,4 +1,5 @@
 .env
 venv
-__pycashe__
+__pycache__
 *.db
+bd.sqlite
